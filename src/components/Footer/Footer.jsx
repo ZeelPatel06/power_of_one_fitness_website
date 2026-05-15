@@ -46,11 +46,7 @@ const Footer = () => {
               Premium fitness facility dedicated to helping you break your limits and achieve your true potential.
             </p>
             <div className="social-links">
-<<<<<<< HEAD
-              <a href="https://www.instagram.com/alliancefitnesss/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-=======
               <a href="https://www.instagram.com/power_of_one_fitnes/?g=5" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
->>>>>>> ac7e350 (power of one fitness)
                 <InstagramIcon size={24} />
               </a>
               <a href="https://www.facebook.com/Powerofonefitnessss/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
