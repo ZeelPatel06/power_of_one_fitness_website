@@ -40,7 +40,7 @@ const Footer = () => {
           {/* Brand & Social */}
           <div className="footer-col brand-col">
             <div className="footer-logo">
-              POWER OF <span>ONE</span> FITNESS
+              URBAN <span>ONE</span> FITNESS
             </div>
             <p className="footer-desc">
               Premium fitness facility dedicated to helping you break your limits and achieve your true potential.
@@ -91,7 +91,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>&copy; {new Date().getFullYear()} Power of One Fitness. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} URBAN ONE FITNESS. All rights reserved.</p>
         </div>
       </div>
     </footer>

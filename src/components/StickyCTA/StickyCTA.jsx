@@ -24,7 +24,7 @@ const StickyCTA = () => {
       <div className="sticky-cta">
         <div className="cta-content">
           <span className="cta-highlight">Limited Time Offer</span>
-          <p className="cta-text">Get 7 Days Free Access to Power of One Fitness</p>
+          <p className="cta-text">Get 7 Days Free Access to URBAN ONE FITNESS</p>
         </div>
         <button className="btn-primary cta-btn">
           <Calendar size={20} />

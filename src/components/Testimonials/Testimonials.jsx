@@ -8,7 +8,7 @@ const Testimonials = () => {
       id: 1,
       name: "Alex M.",
       role: "Member for 2 years",
-      content: "Joining Power of One Fitness was the best decision I ever made. The trainers push you to limits you didn't know you had, and the community is incredibly supportive.",
+      content: "Joining URBAN ONE FITNESS was the best decision I ever made. The trainers push you to limits you didn't know you had, and the community is incredibly supportive.",
       rating: 5
     },
     {
@@ -32,7 +32,7 @@ const Testimonials = () => {
       <div className="container">
         <div className="testimonials-header">
           <h2 className="section-title">Success <span>Stories</span></h2>
-          <p className="section-subtitle">Don't just take our word for it. Hear from the people who have transformed their lives at Power of One Fitness.</p>
+          <p className="section-subtitle">Don't just take our word for it. Hear from the people who have transformed their lives at URBAN ONE FITNESS.</p>
         </div>
 
         <div className="testimonials-grid">

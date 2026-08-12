@@ -28,7 +28,7 @@ const Features = () => {
     <section className="features" id="features">
       <div className="container">
         <div className="features-header">
-          <h2 className="section-title">Why Choose <span>Power of One Fitness</span></h2>
+          <h2 className="section-title">Why Choose <span>URBAN ONE FITNESS</span></h2>
           <p className="section-subtitle">We don't just provide equipment; we provide the environment, expertise, and community you need to build your best self.</p>
         </div>
         

@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="container navbar-container">
         <div className="logo">
           <Dumbbell className="logo-icon" size={28} />
-          <span className="logo-text">POWER OF <span>ONE</span> FITNESS</span>
+          <span className="logo-text">URBAN <span>ONE</span> FITNESS</span>
         </div>
 
         <div className={`nav-links ${mobileMenuOpen ? 'active' : ''}`}>
